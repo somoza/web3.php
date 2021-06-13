@@ -1,5 +1,7 @@
 # web3.php
 
+A fork of sc0Vu/web3.php with support to Laravel 8.
+
 [![Build Status](https://travis-ci.org/sc0Vu/web3.php.svg?branch=master)](https://travis-ci.org/sc0Vu/web3.php)
 [![codecov](https://codecov.io/gh/sc0Vu/web3.php/branch/master/graph/badge.svg)](https://codecov.io/gh/sc0Vu/web3.php)
 [![Join the chat at https://gitter.im/web3-php/web3.php](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg)](https://gitter.im/web3-php/web3.php)
